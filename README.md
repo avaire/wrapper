@@ -32,7 +32,7 @@ If the bot starts up normally you've successfully setup Watchdog to run [avaire]
 
     java -jar Watchdog.jar --help
 
-## Deploy AvaIre on Heroku
+## Deploy AvaIre using Watchdog on Heroku
 You can deploy in a simple way to Heroku using the button below.
 
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
