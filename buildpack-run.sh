@@ -1,5 +1,5 @@
 # Cleaning build artifacts
-mv Watchdog.jar ../
+mv Watchdog.jar ../Watchdog.jar
 rm -r *
 mv ../Watchdog.jar .
 # Adding in empty config files
