@@ -1,6 +1,4 @@
 # Cleaning build artifacts
-pwd
-cd /app/
 mv Watchdog.jar ../Watchdog.jar
 rm -r *
 mv ../Watchdog.jar .
